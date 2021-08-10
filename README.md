@@ -10,7 +10,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/benjamin-luke-smith-gordon-2a4686167/">
-<img src="https://www.iconfinder.com/icons/4102586/applications_linkedin_social_social%20media_icon" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 </p>
 
