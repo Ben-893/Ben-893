@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=Ben-893)](https://github.com/Ben-893/github-readme-stats)
+[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=Ben-893&hide=stars,issues,contribs&show_icons=true&theme=buefy)](https://github.com/Ben-893/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-893&theme=buefy)](https://github.com/Ben-893/github-readme-stats)
 
