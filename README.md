@@ -2,6 +2,8 @@
 
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=Ben-893)](https://github.com/Ben-893/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-893&theme=buefy)](https://github.com/Ben-893/github-readme-stats)
+
 
 <!--
 **Ben-893/Ben-893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
